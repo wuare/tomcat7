@@ -1,16 +1,16 @@
-????:
-1 clone???
+运行步骤：
+1 clone到本地
 2 maven install
-3 IDEA??????:
+3 IDEA设置运行参数:
 Main Class: org.apache.catalina.startup.Bootstrap
-VM options: -Dcatalina.home=[????] -Dcatalina.base=[????] -Djava.endorsed.dirs=[????]\endorsed  -Djava.io.tmpdir=[????]\temp  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager  -Djava.util.logging.config.file=[????]\conf\logging.properties
-4 ??
+VM options: -Dcatalina.home=[项目路径] -Dcatalina.base=[项目路径] -Djava.endorsed.dirs=[项目路径]\endorsed  -Djava.io.tmpdir=[项目路径]\temp  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager  -Djava.util.logging.config.file=[项目路径]\conf\logging.properties
+4 运行
 ---
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
 
-The Apache Tomcat® software is an open source implementation of the Java
+The Apache TomcatÂ® software is an open source implementation of the Java
 Servlet, JavaServer Pages, Java Expression Language and Java WebSocket
 technologies. The Java Servlet, JavaServer Pages, Java Expression Language and
 Java WebSocket specifications are developed under the
