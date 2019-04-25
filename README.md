@@ -1,3 +1,8 @@
+Main Class: org.apache.catalina.startup.Bootstrap
+IDEA??????:
+VM options: -Dcatalina.home=[????] -Dcatalina.base=[????] -Djava.endorsed.dirs=[????]\endorsed  -Djava.io.tmpdir=[????]\temp  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager  -Djava.util.logging.config.file=[????]\conf\logging.properties
+
+----------
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
