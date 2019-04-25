@@ -1,8 +1,11 @@
+????:
+1 clone???
+2 maven install
+3 IDEA??????:
 Main Class: org.apache.catalina.startup.Bootstrap
-IDEA??????:
 VM options: -Dcatalina.home=[????] -Dcatalina.base=[????] -Djava.endorsed.dirs=[????]\endorsed  -Djava.io.tmpdir=[????]\temp  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager  -Djava.util.logging.config.file=[????]\conf\logging.properties
-
-----------
+4 ??
+---
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
